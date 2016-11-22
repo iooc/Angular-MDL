@@ -21,11 +21,23 @@
   <ItemGroup>
     <Service Include="{4A0DDDB5-7A95-4FBF-97CC-616D07737A77}" />
   </ItemGroup>
-  <ItemGroup />
   <ItemGroup>
     <Content Include="package.json" />
     <Content Include="README.md" />
   </ItemGroup>
+  <ItemGroup>
+    <TypeScriptCompile Include="button\button.abstract.ts" />
+    <TypeScriptCompile Include="button\fab.component.ts" />
+    <TypeScriptCompile Include="button\flat.component.ts" />
+    <TypeScriptCompile Include="button\raised.component.ts" />
+    <TypeScriptCompile Include="card\card.component.ts" />
+    <TypeScriptCompile Include="mdl.module.ts" />
+    <TypeScriptCompile Include="mdlreg.directive.ts" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="tsconfig.json" />
+  </ItemGroup>
+  <ItemGroup />
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">12.0</VisualStudioVersion>
   </PropertyGroup>
