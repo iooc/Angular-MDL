@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/iooc/mdl.git"
+    "url": "git+https://github.com/iooc/Angular-MDL.git"
   },
   "keywords": [
     "material",
@@ -18,9 +18,9 @@
   "author": "Cocker Lee",
   "license": "Apache-2.0",
   "bugs": {
-    "url": "https://github.com/iooc/mdl/issues"
+    "url": "https://github.com/iooc/Angular-MDL/issues"
   },
-  "homepage": "https://github.com/iooc/mdl#readme",
+  "homepage": "https://github.com/iooc/Angular-MDL#readme",
   "dependencies": {
     "@angular/common": "^2.2.1",
     "@angular/compiler": "^2.2.1",
