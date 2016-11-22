@@ -1,0 +1,35 @@
+{
+  "name": "mdl",
+  "version": "0.0.1",
+  "description": "Angular2 UI based on the Material-design-lite",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iooc/mdl.git"
+  },
+  "keywords": [
+    "material",
+    "design",
+    "mdl"
+  ],
+  "author": "Cocker Lee",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/iooc/mdl/issues"
+  },
+  "homepage": "https://github.com/iooc/mdl#readme",
+  "dependencies": {
+    "@angular/common": "^2.2.1",
+    "@angular/compiler": "^2.2.1",
+    "@angular/core": "^2.2.1",
+    "@angular/forms": "^2.2.1",
+    "rxjs": "5.0.0-beta.12",
+    "zone.js": "^0.6.25"
+  },
+  "devDependencies": {
+    "typescript": "^2.0.10"
+  }
+}
