@@ -28,5 +28,7 @@ import { Component, Input } from '@angular/core';
                </div>`
 })
 export class MdlCard {
+
     constructor() { }
+    
 }
